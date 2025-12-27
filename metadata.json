@@ -1,0 +1,5 @@
+{
+  "name": "Auto Job Application Filler",
+  "description": "A Chrome extension simulator for intelligent job application auto-filling using Gemini AI. Configures user profiles, AI settings, and simulates field detection.",
+  "requestFramePermissions": []
+}
